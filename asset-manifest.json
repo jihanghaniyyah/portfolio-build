@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.596461b9.css",
-    "main.js": "/static/js/main.d41835d4.js",
+    "main.js": "/static/js/main.a8c3798a.js",
     "static/js/787.071eb048.chunk.js": "/static/js/787.071eb048.chunk.js",
     "static/media/2-1.png": "/static/media/2-1.f34d0530f432adb993cd.png",
     "static/media/1.png": "/static/media/1.a4928911eae2095f26fc.png",
@@ -15,10 +15,10 @@
     "static/media/2-2.png": "/static/media/2-2.155c85c84cc6df534502.png",
     "static/media/react.png": "/static/media/react.81ed438b18e24116794d.png",
     "static/media/2.jpeg": "/static/media/2.7c710fed5fd95186082a.jpeg",
-    "static/media/eunchae.png": "/static/media/eunchae.9b70a1b40440c56fe286.png",
     "static/media/3-1.png": "/static/media/3-1.69d82f408c15f4dfbe40.png",
     "static/media/1.jpeg": "/static/media/1.ee5e9d46b2dddeb532af.jpeg",
     "static/media/2-1.jpeg": "/static/media/2-1.036f1de576a3598e3317.jpeg",
+    "static/media/profile.png": "/static/media/profile.19f12109824443d4b7a0.png",
     "static/media/3-1.jpeg": "/static/media/3-1.d3a480d2dad5d660b662.jpeg",
     "static/media/resume.pdf": "/static/media/resume.e0a69afdfa368c8b2dad.pdf",
     "static/media/3.jpeg": "/static/media/3.38d4313a44190c7cc1f2.jpeg",
@@ -39,11 +39,11 @@
     "index.html": "/index.html",
     "static/media/flutter.svg": "/static/media/flutter.83219c099347619051f3aa0fa0e2108e.svg",
     "main.596461b9.css.map": "/static/css/main.596461b9.css.map",
-    "main.d41835d4.js.map": "/static/js/main.d41835d4.js.map",
+    "main.a8c3798a.js.map": "/static/js/main.a8c3798a.js.map",
     "787.071eb048.chunk.js.map": "/static/js/787.071eb048.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.596461b9.css",
-    "static/js/main.d41835d4.js"
+    "static/js/main.a8c3798a.js"
   ]
 }
